@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋, I'm Mounika Bandi
 
-<!--
-**mounikabandi-02/mounikabandi-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student at Sacred Heart University
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer | Data Engineer | AI Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🌱 Currently learning Java, Python, SQL, Data Engineering, and Artificial Intelligence
+- 💼 Seeking Software Engineer and Data Engineer opportunities
+- 🚀 Building hands-on projects every day
+- 📍 Hartford, Connecticut, USA
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Java
+- Python
+- SQL
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+
+### Currently Learning
+- Data Engineering
+- Artificial Intelligence
+- Apache Spark
+- ETL Concepts
+
+---
+
+## 📂 Featured Projects
+
+- 🐍 Python Learning Projects
+- ☕ Java Learning Projects
+- 🗄 SQL Practice
+- 📊 Data Engineering Projects (Coming Soon)
+- 🤖 AI Learning Projects (Coming Soon)
+
+---
+
+## 🎯 Goals for 2026
+
+- Build 25+ GitHub Projects
+- Become a Java Software Engineer
+- Become a Data Engineer
+- Learn Apache Spark & Airflow
+- Contribute to Open Source
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/mounika-bandi-26ba12356
+- GitHub: github.com/mounikabandi-02
+
+⭐ Thanks for visiting my profile!
